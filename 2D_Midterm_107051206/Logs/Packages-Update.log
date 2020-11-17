@@ -1,10 +1,10 @@
 
-=== Sun Nov 15 15:13:24 2020
+=== Tue Nov 17 11:43:19 2020
 
 Packages were changed.
-Update Mode: mergeDefaultDependencies
+Update Mode: resetToDefaultDependencies
 
-The following packages were 已增加:
+The following packages were added:
   com.unity.collab-proxy@1.2.16
   com.unity.ide.rider@1.1.4
   com.unity.ide.vscode@1.2.0
@@ -43,7 +43,3 @@ The following packages were 已增加:
   com.unity.textmeshpro@2.0.1
   com.unity.timeline@1.2.14
   com.unity.ugui@1.0.0
-The following packages were 已更新:
-  com.unity.2d.animation 從版本 3.1.1 到 3.2.2
-  com.unity.2d.psdimporter 從版本 2.1.0 到 2.1.4
-  com.unity.2d.spriteshape 從版本 3.0.8 到 3.0.11
